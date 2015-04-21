@@ -17,7 +17,7 @@ except:
 
 data = buffer.getvalue()
 
-
+# Some string manipulation
 ids = []
 dates = []
 id1 = data.split("u'access_key': ")
